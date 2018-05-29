@@ -1,0 +1,32 @@
+{
+  "name": "sass-preprocess",
+  "description": "preprocess sass file with variables/mixins/ etc",
+  "version": "0.1.0",
+  "homepage": "https://github.com/YellEngineering/sass-preprocess",
+  "author": {
+    "name": "Arshdeep Soni",
+    "email": "arshdsoni@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/YellEngineering/sass-preprocess.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YellEngineering/sass-preprocess/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/YellEngineering/sass-preprocess/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
